@@ -1,0 +1,1 @@
+document.getElementById("one").innerHTML="Hello From One",document.getElementById("tow").innerHTML="Hello From Tow";

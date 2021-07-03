@@ -1,0 +1,43 @@
+
+1- mkdir GulpProject
+2- cd GulpProject
+3- npm init ===> [ Wright name of prject ]
+4- sudo npm i --save-dev gulp  ===> This To Install Gulp In The Floder && dev => This To Development [ If I Make Install Any Tool In The Project Is For Developer Not User ==> devDependencies If Not Developer Is Be ==> Dependencies  The Project Will Cant Be Work Without THis Tool That Be Install In ==>  Dependencies ]
+
+5- create Folder [ Name Project ]
+6- create Folder [ Name dist ]
+7- create gulpfile.js ==> This Is Important
+8- open Terminal In This Folder 
+9- Wright This Command ==> gulp [Name Task]
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
+// Copy Files From Source To Destination
+
+// Concatenate CSS And JS Files In One File
+
+// Auto Prefixer For CSS3 Properties
+
+// Manage And Compile Sass Files
+
+// Compile Pugjs Files With Gulp
+
+// LocalHost In Gulp
+
+// Watch In Gulp
+
+// Live Reload In Gulp
+
+// Add Source Maps To Files
+
+// Minifing JS Files With Uglify
+
+// Show Notification With Notify
+
+// Compress Files With Gulp Zip
+
+// Upload Files With Vinyl Ftp
+
+// Default Task 
+
+// Important Plugin

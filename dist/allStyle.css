@@ -1,0 +1,17 @@
+.content{
+	font-size: 50px;
+	height: 50px;
+	opacity: .8;
+	-webkit-transition: all .5s ease-in-out;
+	transition: all .5s ease-in-out;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+.footer{
+	padding: 20px;
+	width: 600px;
+}
+.header{
+	height: 2000px;
+}
